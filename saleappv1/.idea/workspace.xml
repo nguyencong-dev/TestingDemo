@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a361dc74-d72d-4e48-bdec-835f4908b536" name="Changes" comment="" />
+    <list default="true" id="a361dc74-d72d-4e48-bdec-835f4908b536" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/eapp/test/test_cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eapp/test/test_pay.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/saleappv1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/saleappv1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eapp/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/eapp/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eapp/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/eapp/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eapp/test/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/eapp/test/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,9 +27,12 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="3B6gNWNG9J7ztw2JS0PMRQeVvZA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,110 +51,121 @@
     "Python tests.Python tests for eapp.test.test_search_products.test_keywords.executor": "Run",
     "Python tests.Python tests for eapp.test.test_search_products.test_kw_cate.executor": "Run",
     "Python tests.Python tests for eapp.test.test_search_products.test_paging.executor": "Run",
+    "Python tests.Python tests for test_cart.test_cart_increase_successful.executor": "Run",
+    "Python tests.Python tests for test_cart.test_del_cart_successful.executor": "Run",
+    "Python tests.Python tests for test_cart.test_update_cart.executor": "Run",
+    "Python tests.Python tests for test_pay.test_all.executor": "Run",
+    "Python tests.Python tests for test_pay.test_pay_exception.executor": "Run",
+    "Python tests.Python tests for test_pay.test_pay_success.executor": "Run",
+    "Python tests.Python tests in test_search_products.py.executor": "Run",
     "Python.index.executor": "Run",
     "Python.models.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/ASUS/Downloads/cs2301saleapp-main/saleappv1",
+    "last_opened_file_path": "C:/Users/admin/Desktop/TestingDemo/saleappv1",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for eapp.test.test_register_user.test_avatar">
-    <configuration name="Python tests for eapp.test.base.test_session" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_pay.test_all">
+    <configuration name="Python tests for test_cart.test_del_cart_successful" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="saleappv1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eapp/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;eapp.test.base.test_session&quot;" />
+      <option name="_new_target" value="&quot;test_cart.test_del_cart_successful&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for eapp.test.test_register_user.test_avatar" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_cart.test_update_cart" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="saleappv1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eapp/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;eapp.test.test_register_user.test_avatar&quot;" />
+      <option name="_new_target" value="&quot;test_cart.test_update_cart&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for eapp.test.test_register_user.test_constrainst" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_pay.test_all" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="saleappv1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eapp/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;eapp.test.test_register_user.test_constrainst&quot;" />
+      <option name="_new_target" value="&quot;test_pay.test_all&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for eapp.test.test_register_user.test_exsiting_username" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_pay.test_pay_exception" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="saleappv1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eapp/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;eapp.test.test_register_user.test_exsiting_username&quot;" />
+      <option name="_new_target" value="&quot;test_pay.test_pay_exception&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for eapp.test.test_register_user.test_invalid_password" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_pay.test_pay_success" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="saleappv1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eapp/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;eapp.test.test_register_user.test_invalid_password&quot;" />
+      <option name="_new_target" value="&quot;test_pay.test_pay_success&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for eapp.test.test_register_user.test_avatar" />
-        <item itemvalue="Python tests.Python tests for eapp.test.base.test_session" />
-        <item itemvalue="Python tests.Python tests for eapp.test.test_register_user.test_constrainst" />
-        <item itemvalue="Python tests.Python tests for eapp.test.test_register_user.test_invalid_password" />
-        <item itemvalue="Python tests.Python tests for eapp.test.test_register_user.test_exsiting_username" />
+        <item itemvalue="Python tests.Python tests for test_pay.test_all" />
+        <item itemvalue="Python tests.Python tests for test_pay.test_pay_exception" />
+        <item itemvalue="Python tests.Python tests for test_pay.test_pay_success" />
+        <item itemvalue="Python tests.Python tests for test_cart.test_del_cart_successful" />
+        <item itemvalue="Python tests.Python tests for test_cart.test_update_cart" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a361dc74-d72d-4e48-bdec-835f4908b536" name="Changes" comment="" />
